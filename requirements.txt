@@ -1,0 +1,5 @@
+# SPY Options Edge - dependencies
+# Install with:  pip install -r requirements.txt
+Flask>=3.0
+requests>=2.31
+yfinance>=0.2.40
